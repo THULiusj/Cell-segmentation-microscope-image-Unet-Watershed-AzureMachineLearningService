@@ -6,7 +6,7 @@ In this repo, we'll cover two topics, one is how to use Unet and Watershed algor
 
 ## Introduction
 
-In chemistry or biology industry, scientists always use microscope to study the structure of some biological tissue or materials. They also need to seperate the cell from the complete structure, so that they can get the count of the cell and also the centroid and the area of the cell, to check the quality and metric of the tissue or materials. Microscope images are like below, left is polyurethane material and right is cell.
+In many industries, scientists always use microscope images to study the micro structure of some biological tissue or materials. They also need to seperate the cell from the complete structure, so that they can get the count of the cell and also the centroid and the area of the cell, to check the quality and metric of the tissue or materials. Microscope images are like below, left is polyurethane material and right is cell.
 
 <p align="center"><img src="unet+watershed_research_code/image/polyurethane.jpg" width="30%" height="30%"> <img src="unet+watershed_research_code/image/cell.jpg" width="28%" height="28%">
 
